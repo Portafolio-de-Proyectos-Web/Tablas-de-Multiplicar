@@ -1,0 +1,75 @@
+html{
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+  }
+      
+  body{
+    background-image: url("imagen/Fondo.jpg");
+    text-align: center;   
+  }
+
+
+  h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #ff0c0c;
+    text-shadow: 3px 3px 1px rgb(176, 19, 19);
+  }
+
+  h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    text-shadow: 5px 5px 5px rgb(4, 240, 106);
+  }
+   
+  h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(254, 254, 254);
+    font-size: 2rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    text-shadow: 5px 5px 5px rgb(144, 23, 2);
+  }
+      
+
+  label {
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 600;
+    text-shadow: 5px 5px 5px rgb(4, 181, 240);
+  
+  }
+
+  button {
+    color: rgb(240, 4, 4);
+  }
+
+  input[type=button] {
+    border: 2px solid rgb(4, 71, 240);
+    padding: 10px;
+    background-color: #00a1ec;
+    color: rgb(0, 0, 0);
+    border-radius: 75px;
+  }
+
+
+  html {
+    background-image: url("imagen/Fondo.jpg");
+  }
+      
+  img {
+    display: block;
+    margin: 0 auto;
+
+}
+
